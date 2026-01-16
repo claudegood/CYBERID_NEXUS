@@ -1,4 +1,5 @@
 {
-  "assets": "dist",
-  "function": "dist/assets/index-*.js"
+  "assets": {
+    "directory": "dist"
+  }
 }
