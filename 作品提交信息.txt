@@ -2,7 +2,7 @@
 https://alibaba1.3dc2c56b.er.aliyun-esa.net/zh
 
 Github仓库地址
-https://github.com/klopiop/CYBERID_NEXUS
+https://github.com/claudegood/CYBERID_NEXUS
 
 作品说明
 CYBERID_NEXUS 是一个基于 Web 的网络安全身份管理系统，提供全面的数字身份验证、安全分析和威胁检测功能。该系统集成了多种安全工具和分析模块，帮助用户识别、评估和应对网络安全威胁。
